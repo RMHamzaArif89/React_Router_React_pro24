@@ -1,6 +1,7 @@
 import React from 'react'
 import { Outlet ,NavLink} from 'react-router-dom'
 import './home.css'
+import './nav.css'
 
 function Home() {
   return (
