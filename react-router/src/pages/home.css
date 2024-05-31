@@ -1,0 +1,15 @@
+h1{
+    font-size: 2rem;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    width: 80%;
+    height: auto;
+    padding: 12px;
+    margin: 0 auto;
+    text-align: center;
+     background: #000;
+     color: white;
+}

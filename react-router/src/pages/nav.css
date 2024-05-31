@@ -1,0 +1,19 @@
+nav ul{
+    width: 30px;
+    height: 100%;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+nav ul li a{
+    color: white;
+    padding: 4px;
+    border-radius: 6px;
+    text-decoration: none;
+    background: red;
+
+}
+nav ul li a.active{
+    color: red;
+    background: white;
+}
